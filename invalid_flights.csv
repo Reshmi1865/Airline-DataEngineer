@@ -1,0 +1,4 @@
+flight_id,airline,source,destination,departure_time,arrival_time,duration,duration_clean,calculated_duration,duration_minutes
+SJ192,SpiceJet,HYD,BOM,2026-04-19 18:45:42.000,2026-04-18 23:45:42.000,1899-12-29 05:00:00,0 days 05:00:00,-1 days +05:00:00,
+6F250,IndiGo,DEL,BLR,2026-04-20 03:26:41.701,2026-04-20 07:30:41.701,04:04:00,,,244.0
+6F250,IndiGo,CCU,BLR,2026-04-20 02:23:41.702,2026-04-20 02:56:41.702,00:33:00,,,33.0
